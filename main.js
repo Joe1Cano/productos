@@ -3,7 +3,7 @@ var http_requests = require('./http_requests.js');
 var products      = require('./products.js');   
 
 const http = require('http');
-const hostname = '127.0.0.2';
+const hostname = '34.203.9.253';
 const port = 80;
 
 
